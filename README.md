@@ -4,9 +4,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![screenshot.png](./screenshot.png)
+![Desktop version](./snapshot.png)
 
-![screenshotMobile.png](./screenshotMobile.png)
+![Mobile version](./snapshotMobile.png)
 
 
 ### Links
